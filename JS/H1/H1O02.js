@@ -9,4 +9,11 @@ function draw() {
   noStroke();
   fill('darkred');
   triangle(225,0,0,450,450,450);
+
+  noStroke();
+  fill('pink');
+  triangle(450,0,0,225,450,450)
+  noStroke();
+  fill('purple');
+  triangle(0,225,0,450,0,0)
 }
