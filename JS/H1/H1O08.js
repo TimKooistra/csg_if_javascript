@@ -29,4 +29,5 @@ function draw() {
   rect(0,0,10*variabeleB,10*variabeleB);
   translate(10*variabeleB + 150,0);
   rect(0,0,10*uitkomst,10*uitkomst);  
+
 }
