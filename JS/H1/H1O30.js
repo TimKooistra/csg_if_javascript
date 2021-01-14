@@ -1,7 +1,5 @@
 
 
-var rij = 50;
-
 function setup() {
   canvas = createCanvas(451,451);
   canvas.parent('processing');
